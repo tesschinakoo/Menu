@@ -16,7 +16,7 @@ list11 = ['Ice Cream', 'Chocolate Cake', 'Cookie Plate', 'Red Velvet Cupcakes']
 list7 = ['Alfredo','Pesto','Marinara','Bolognese','Parmasean','Butter']
 list8 = [' linquini',' penne',' rigatoni',' angel hair pasta',' fusili',' spaghetti']
 list9 = [' meatballs',' filet mignon',' prosciutto',' basil',' oregano',' sausage']
-list12 = ['Tiramisu', 'Cannoli', 'Gelato', 'Creme Brulee']
+list12 = ['Tiramisu', 'Cannoli', 'Gelato', 'Creme Brulee', 'Bombolone', 'Panna Cotta']
 
 import random
 
